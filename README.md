@@ -32,5 +32,3 @@ A Software Developer from Istanbul/Turkey
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
-
-![Ali Ulaş Hayır's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliulashayir&show_icons=true&theme=radical)
