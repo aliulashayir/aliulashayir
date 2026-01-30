@@ -3,17 +3,7 @@
 <!--
 **aliulashayir/aliulashayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Hi 👋, I'm Ali Ulaş Hayır
 
@@ -22,11 +12,10 @@ A Software Developer from Istanbul/Turkey
 ![Commit](https://img.shields.io/badge/Commit-Commit%20Status-brightgreen)
 ![Repositories](https://img.shields.io/badge/Repositories-Repo%20Status-brightgreen)
 
-- 🌱 I’m currently learning Backend with Java and Next.js.
-- 👯 I’m looking to collaborate on Web3 and Backend projects.
-- 💬 Ask me about anything!
-- 📫 How to reach me: [aliulashayir@gmail.com](mailto:aliulashayir@gmail.com)
-- 😄 Pronouns: He/Him
+
+- I'm currently working as a BTP Developer at one of the largest consultant firms in Turkiye
+- I’m currently learning Backend and Data Engineering pipelines to improve at my work .
+- How to reach me: [aliulashayir@gmail.com](mailto:aliulashayir@gmail.com)
 - ⚡ Fun fact: I enjoy attending Web3-related fairs and events.
 
 ## Connect with me:
